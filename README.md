@@ -26,4 +26,4 @@ The number of videos for scraping is unlimited.
 
 <h3> Required Libraries </h3>
 
-pip install tkinter pandas requests bs4 openpyxl
+```pip install tkinter pandas requests bs4 openpyxl```
