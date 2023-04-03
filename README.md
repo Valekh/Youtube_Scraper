@@ -23,3 +23,6 @@ Then you can click Save and save the received data to an Excel file:
 The scraping method in this project shows that we can scrape not only simple sites, but also those that save all the basic information in the Script, which complicates the task. It also shows how convenient it is to save data in the form you need and make scraping applications more convenient. For example, if we add a couple of features, the user can choose how many videos they want to scrape into one file, or even choose which videos they want to scrape.
 
 The number of videos for scraping is unlimited.
+
+<h3> Required Libraries </h3>
+pip install tkinter pandas requests bs4 openpyxl
