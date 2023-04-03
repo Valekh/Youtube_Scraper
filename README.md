@@ -25,4 +25,5 @@ The scraping method in this project shows that we can scrape not only simple sit
 The number of videos for scraping is unlimited.
 
 <h3> Required Libraries </h3>
+
 pip install tkinter pandas requests bs4 openpyxl
